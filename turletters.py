@@ -36,6 +36,8 @@ def turtleLetter(letter,tur):
     elif letter == "C":
 	    pass
     elif letter == "D":
+	tur.down(100)
+	tur.setheading(90)
 	    pass
     elif letter == "E":
 	    pass
